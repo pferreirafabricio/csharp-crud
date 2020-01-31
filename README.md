@@ -7,7 +7,6 @@
 ## :man_technologist: Tecnologias usadas
 
 O projeto foi desenvolvido com as seguintes tecnologias:
-- [C#](https://docs.microsoft.com/pt-br/dotnet/csharp/)
 - [MySQL](https://www.mysql.com)
 - [Visual Studio](https://visualstudio.microsoft.com/pt-br/)
 
