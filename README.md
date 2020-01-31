@@ -2,7 +2,9 @@
 
 ## :eyes: Como ficou?
 
-<!-- <img src="/projectImages/tela-login.png" width="auto" height="370px"></img> -->
+<img src="/projectImages/tela-crud.png" width="auto" height="381px"></img>
+<hr/>
+<img src="/projectImages/tela-consultarDados.png" width="auto" height="350px"></img>
 
 ## :man_technologist: Tecnologias usadas
 
