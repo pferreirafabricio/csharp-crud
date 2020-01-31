@@ -1,0 +1,24 @@
+c:\users\user\documents\visual studio 2015\Projects\wfaCRUD\wfaCRUD\bin\Debug\wfaCRUD.exe.config
+C:\Users\User\Documents\CRUD em C#\wfaCRUD\wfaCRUD\bin\Debug\wfaCRUD.exe.config
+C:\Users\User\Documents\CRUD em C#\wfaCRUD\wfaCRUD\bin\Debug\wfaCRUD.exe
+C:\Users\User\Documents\CRUD em C#\wfaCRUD\wfaCRUD\bin\Debug\wfaCRUD.pdb
+C:\Users\User\Documents\CRUD em C#\wfaCRUD\wfaCRUD\bin\Debug\MySql.Data.dll
+C:\Users\User\Documents\CRUD em C#\wfaCRUD\wfaCRUD\bin\Debug\MySql.Data.xml
+C:\Users\User\Documents\CRUD em C#\wfaCRUD\wfaCRUD\obj\Debug\wfaCRUD.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\CRUD em C#\wfaCRUD\wfaCRUD\obj\Debug\wfaCRUD.frmBancoDados.resources
+C:\Users\User\Documents\CRUD em C#\wfaCRUD\wfaCRUD\obj\Debug\wfaCRUD.Properties.Resources.resources
+C:\Users\User\Documents\CRUD em C#\wfaCRUD\wfaCRUD\obj\Debug\wfaCRUD.csproj.GenerateResource.Cache
+C:\Users\User\Documents\CRUD em C#\wfaCRUD\wfaCRUD\obj\Debug\wfaCRUD.exe
+C:\Users\User\Documents\CRUD em C#\wfaCRUD\wfaCRUD\obj\Debug\wfaCRUD.pdb
+C:\Users\User\Documents\CRUD em C#\CRUD em C#\wfaCRUD\wfaCRUD\bin\Debug\wfaCRUD.exe.config
+C:\Users\User\Documents\CRUD em C#\CRUD em C#\wfaCRUD\wfaCRUD\obj\Debug\wfaCRUD.exe
+C:\Users\User\Documents\CRUD em C#\CRUD em C#\wfaCRUD\wfaCRUD\obj\Debug\wfaCRUD.pdb
+C:\Users\User\Documents\CRUD em C#\CRUD em C#\wfaCRUD\wfaCRUD\obj\Debug\wfaCRUD.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\CRUD em C#\CRUD em C#\wfaCRUD\wfaCRUD\obj\Debug\wfaCRUD.frmBancoDados.resources
+C:\Users\User\Documents\CRUD em C#\CRUD em C#\wfaCRUD\wfaCRUD\obj\Debug\wfaCRUD.frmConsultarListaDados.resources
+C:\Users\User\Documents\CRUD em C#\CRUD em C#\wfaCRUD\wfaCRUD\obj\Debug\wfaCRUD.Properties.Resources.resources
+C:\Users\User\Documents\CRUD em C#\CRUD em C#\wfaCRUD\wfaCRUD\obj\Debug\wfaCRUD.csproj.GenerateResource.Cache
+C:\Users\User\Documents\CRUD em C#\CRUD em C#\wfaCRUD\wfaCRUD\bin\Debug\wfaCRUD.exe
+C:\Users\User\Documents\CRUD em C#\CRUD em C#\wfaCRUD\wfaCRUD\bin\Debug\wfaCRUD.pdb
+C:\Users\User\Documents\CRUD em C#\CRUD em C#\wfaCRUD\wfaCRUD\bin\Debug\MySql.Data.dll
+C:\Users\User\Documents\CRUD em C#\CRUD em C#\wfaCRUD\wfaCRUD\bin\Debug\MySql.Data.xml
